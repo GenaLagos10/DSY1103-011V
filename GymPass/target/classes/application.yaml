@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: GymPass
+
+server:
+  servlet:
+    context-path: /api
